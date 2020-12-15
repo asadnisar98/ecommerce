@@ -1,0 +1,22 @@
+
+@font-face {
+  font-family: "JostRomanSemiBold";
+  src: url("Jost-SemiBold.ttf");
+}
+@font-face {
+  font-family: "JostRomanMedium";
+  src: url("Jost-Medium.ttf");
+}
+@font-face {
+  font-family: "JostRomanRegular";
+  src: url("Jost-Regular.ttf");
+}
+@font-face {
+  font-family: "JostLight";
+  src: url("Jost-Light.ttf");
+}
+
+@font-face {
+  font-family: "LoraRegular";
+  src: url("Lora-Regular.ttf");
+}
